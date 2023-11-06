@@ -1,0 +1,10 @@
+competitor:
+  senda: "森大"
+  shengtai: "盛泰"
+  alading: "阿拉丁"
+  huanyang: "环阳"
+clickTime: 6
+#randomAction:
+#  scrollUp: "scroll(0, -250)"
+#  scrollDown: "scroll(0, 250)"
+#  maximizePage: "driver.Manage().Window.Maximize()"
